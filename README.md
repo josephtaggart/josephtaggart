@@ -19,7 +19,12 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
 
+<br />
+
+### about me 
+- I’m a research assistant at the University of Warwick. </br>
+- I have an MSc in Statistics & a BSc in Mathematics. </br>
 
 <div id = "header" align ="left">
-
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=josephtaggart.josephtaggart)
