@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=josephtaggart.josephtaggart)
