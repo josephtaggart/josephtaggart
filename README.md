@@ -21,9 +21,5 @@ Here are some ideas to get you started:
 
 
 <div id = "header" align ="left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josephtaggart(&layout=compact&theme=github_dark"/>
-<br />
-
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=josephtaggart.josephtaggart)
