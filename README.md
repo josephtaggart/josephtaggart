@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-
+<div id = "header" align ="left">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=josephtaggart.josephtaggart)
